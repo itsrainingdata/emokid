@@ -25,7 +25,7 @@ lyrics <- function(){
 }
 
 iamsad <- function(){
-    cat(sample(lyrics(), 1))
+    cat(tolower(sample(lyrics(), 1)))
 }
 
 iamlesssad <- function(){
