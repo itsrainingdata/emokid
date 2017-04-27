@@ -1,4 +1,5 @@
 lyrics <- function(){
+    ### Credit: https://www.bustle.com/articles/38749-21-of-the-most-emo-lyrics-from-the-early-00s-that-will-bring-back-the-glory
     c("Could you tell me the next time that you're choking? Cause I'll rush right over to shove some dirt right down your throat.",
       "I'd walk through hell for you. Let it burn right through my shoes. These soles are useless without you.",
       "The truth, is you could slit my throat. And with my one last gasping breath I'd apologize for bleeding on your shirt.",

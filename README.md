@@ -18,7 +18,7 @@ Overview
 For when your code is broken:
 
 ``` r
-# 1+"a"
+1+"a"
 iamsad()
 #> breathe in deep, let it out slow. did you hear it's all my fault again?
 ```
