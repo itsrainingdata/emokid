@@ -32,3 +32,8 @@ iamlesssad()
 ```
 
 **Note:** This is just a wrapper to the aforementioned `iamsad` method.
+
+What if I'm not feeling emo?
+----------------------------
+
+I suggest looking into Hadley's fantastic emo package, which was the original inspiration for `emokid` and allows you the full range of emoji expressions: <https://github.com/hadley/emo>
