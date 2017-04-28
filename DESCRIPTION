@@ -5,6 +5,8 @@ Version: 0.0.0.9000
 Authors@R: person("Bryon", "Aragam", email = "sparsebn@gmail.com", role = c("aut", "cre"))
 Description: Sings you to sleep when your code doesn't run.
 License: GPL (>= 2)
+Imports: emo
+Remotes: hadley/emo
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/itsrainingdata/emokid
